@@ -1,2 +1,2 @@
 # ML_WORKSHOP
-Machine learning workshop
+Machine learning workshop (Beginner)
